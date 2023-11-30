@@ -1,0 +1,116 @@
+{
+  "monstruos": [
+    {
+      "id": 4,
+      "nombre": "Marcos",
+      "tipo": "Zombie",
+      "alias": "loco",
+      "miedo": 10,
+      "defensa": "Plata"
+    },
+    {
+      "id": 5,
+      "nombre": "Orton",
+      "tipo": "Zombie",
+      "alias": "rko",
+      "miedo": 7,
+      "defensa": "Plata"
+    },
+    {
+      "id": 6,
+      "nombre": "Luna",
+      "tipo": "Vampiro",
+      "alias": "baddab",
+      "miedo": 7,
+      "defensa": "Pocion"
+    },
+    {
+      "id": 7,
+      "nombre": "Roncaglia",
+      "tipo": "Zombie",
+      "alias": "muerto",
+      "miedo": 0,
+      "defensa": "Estaca"
+    },
+    {
+      "id": 8,
+      "nombre": "Renala",
+      "tipo": "Fantasma",
+      "alias": "maga",
+      "miedo": 4,
+      "defensa": "Plata"
+    },
+    {
+      "id": 9,
+      "nombre": "Yoko",
+      "tipo": "Vampiro",
+      "alias": "chinchon",
+      "miedo": 10,
+      "defensa": "Estaca"
+    },
+    {
+      "id": 11,
+      "nombre": "Ronald",
+      "tipo": "Fantasma",
+      "alias": "mcdonal",
+      "miedo": 10,
+      "defensa": "Plata"
+    },
+    {
+      "id": 12,
+      "nombre": "Roger",
+      "tipo": "Esqueleto",
+      "alias": "aguas",
+      "miedo": 1,
+      "defensa": "Pocion"
+    },
+    {
+      "id": 13,
+      "nombre": "Blondie",
+      "tipo": "Vampiro",
+      "alias": "glass",
+      "miedo": 9,
+      "defensa": "Estaca"
+    },
+    {
+      "id": 14,
+      "nombre": "Hobart",
+      "tipo": "Bruja",
+      "alias": "delta",
+      "miedo": 3,
+      "defensa": "Plata"
+    },
+    {
+      "id": 15,
+      "nombre": "Jane",
+      "tipo": "Zombie",
+      "alias": "charlie",
+      "miedo": 4,
+      "defensa": "Plata"
+    },
+    {
+      "nombre": "milei",
+      "tipo": "Vampiro",
+      "alias": "peluca",
+      "miedo": 4,
+      "defensa": "Pocion",
+      "id": 16
+    },
+    {
+      "id": 18,
+      "nombre": "Yodolfo",
+      "tipo": "Esqueleto",
+      "alias": "malo",
+      "miedo": 7,
+      "defensa": "Crucifijo"
+    },
+    {
+      "nombre": "asdad",
+      "tipo": "Fantasma",
+      "alias": "asdasd",
+      "miedo": 3,
+      "defensa": "Crucifijo",
+      "id": 19
+    }
+  ]
+}
